@@ -1,0 +1,37 @@
+==============================
+          BUG REPORT
+==============================
+Title: [The Marauder’s Map refuses to reveal secret passages]
+Date: [YYYY-MM-DD]
+Reported by: [Harry Potter / Your Name]
+------------------------------
+Description:
+------------------------------
+The Marauder’s Map stops showing certain hidden corridors around Hogwarts. Tried to sneak out to Hogsmeade, but the map betrayed me—no secret paths appeared!
+------------------------------
+Steps to Reproduce:
+------------------------------
+1. Open the Marauder’s Map with the “I solemnly swear that I am up to no good” phrase.
+2. Look for the passage behind the statue of the one-eyed witch.
+3. Notice the passage does not show up.
+------------------------------
+Expected Result:
+------------------------------
+The secret passages should appear on the map, allowing safe passage.
+------------------------------
+Actual Result:
+------------------------------
+The passages remain invisible, causing unexpected detention by Filch.
+------------------------------
+Environment:
+------------------------------
+- OS: Hogwarts Castle Magic Network v4.2
+- App: Marauder’s Map enchanted parchment v1.0
+- Device: Wizard’s wand (Elder Wand preferred)
+------------------------------
+Additional Notes:
+------------------------------
+- Tried using Lumos for better visibility — no effect.
+- Snape probably put a jinx on it.
+- Fix ASAP or risk losing points for Gryffindor!
+==============================
