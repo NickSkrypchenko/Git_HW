@@ -1,0 +1,10 @@
+Writing automated tests in JavaScript and TypeScript that (hopefully) pass on the first try
+Learning WebDriverIO to make browsers do exactly what I tell them to (most of the time)
+Becoming friends with CSS and XPath selectors, even when they try to ruin my day
+Building test frameworks that don’t collapse under their own complexity
+Setting up CI/CD pipelines so tests run while I go make coffee
+Sending API requests like a pro, and actually understanding the responses
+Applying the Page Object Model because spaghetti code is only good in the kitchen
+Debugging tests without yelling at the screen more than necessary
+Using Git the right way, not just hoping “git push –force” solves everything
+Writing code that future me won’t hate in two weeks
