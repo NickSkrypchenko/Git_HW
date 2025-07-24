@@ -1,0 +1,39 @@
+==============================
+          BUG REPORT
+==============================
+Title: [Déjà vu – the cat glitched again]
+Date: [YYYY-MM-DD]
+Reported by: [Neo / Thomas A. Anderson]
+------------------------------
+Description:
+------------------------------
+While navigating the Matrix, a black cat walked past a doorway. A moment later, *the same cat* walked by again. Clearly a glitch. Agents appeared shortly after, confirming the simulation was being modified.
+------------------------------
+Steps to Reproduce:
+------------------------------
+1. Enter a simulated building inside the Matrix.
+2. Observe a black cat walk by.
+3. Wait two seconds.
+4. Observe *the same* black cat repeat the action.
+------------------------------
+Expected Result:
+------------------------------
+Unique feline movement with no temporal anomalies.
+------------------------------
+Actual Result:
+------------------------------
+Identical black cat walks by twice. Time loop suspected. Agents breach simulation. Panic ensues.
+------------------------------
+Environment:
+------------------------------
+- OS: Matrix Mainframe v3.0
+- App: Construct Viewer / Reality Layer Handler
+- Device: Neuro-Interface Port (Model: Zion v7)
+------------------------------
+Additional Notes:
+------------------------------
+- Trinity confirmed visual duplicate.
+- Morpheus says "it means they’ve changed something."
+- Requesting patch to prevent minor glitches triggering full-scale ambushes.
+- Recommend adding cat cache invalidation logic.
+==============================
