@@ -1,1 +1,37 @@
-
+==============================
+          BUG REPORT
+==============================
+Title: [When the Millennium Falcon won't start and you’re stuck in hyperspace]
+Date: [YYYY-MM-DD]
+Reported by: [Han Solo / Your Name]
+------------------------------
+Description:
+------------------------------
+It seems the hyperdrive is malfunctioning again — the ship refuses to jump to lightspeed, leaving us drifting in the Outer Rim. Not cool, Chewie.
+------------------------------
+Steps to Reproduce:
+------------------------------
+1. Enter the cockpit.
+2. Attempt to engage the hyperdrive by pressing the big red button.
+3. Watch as nothing happens except the warning lights flashing like a disco.
+------------------------------
+Expected Result:
+------------------------------
+Hyperspace jump initiates smoothly, and we escape the Empire’s clutches.
+------------------------------
+Actual Result:
+------------------------------
+Ship stays put, hyperdrive fails spectacularly, and we get stuck like a Tauntaun on ice.
+------------------------------
+Environment:
+------------------------------
+- OS: Death Star Control System v1.0
+- App: Millennium Falcon Cockpit Interface v2.7.3
+- Device: Custom Corellian Engineering
+------------------------------
+Additional Notes:
+------------------------------
+- Chewbacca grumbled loudly after the failure.
+- R2-D2 was unimpressed.
+- Please fix before Darth Vader shows up.
+==============================
